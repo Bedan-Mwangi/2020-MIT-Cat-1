@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85706f29-9e23-41ac-be0b-5bf9e8fce1de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WYUGkVZmh6KYfZrnauxcpM39DO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resorces" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eMobilis\PhpstormProjects\assignment 2\resorces" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/assignment 2/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85706f29-9e23-41ac-be0b-5bf9e8fce1de" name="Default Changelist" comment="" />
+      <created>1579325927698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579325927698</updated>
+      <workItem from="1579325929111" duration="1611000" />
+      <workItem from="1579327586010" duration="2860000" />
+      <workItem from="1579330508802" duration="329000" />
+      <workItem from="1579331094220" duration="7572000" />
+      <workItem from="1579353817502" duration="147000" />
+      <workItem from="1579579713918" duration="1369000" />
+      <workItem from="1579583378182" duration="1924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="100" width="739" height="784" key="DiffContextDialog" timestamp="1579332000906">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="441" y="100" width="739" height="784" key="DiffContextDialog/0.0.1280.984@0.0.1280.984" timestamp="1579332000906" />
+    <state x="420" y="249" key="FileChooserDialogImpl" timestamp="1579330837916">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="249" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1579330837916" />
+    <state x="347" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1579583453464">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="347" y="318" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1579583453464" />
+  </component>
+</project>

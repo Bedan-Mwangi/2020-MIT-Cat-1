@@ -1,0 +1,60 @@
+img{
+    height: 20vh;
+    width: 25%;
+}
+.logo{
+    width: 1500px;
+
+}
+.bt1{
+    color: black;
+    background-color: gold;
+}
+.bt2{
+    background-color: red;
+    text-align-all: right;
+}
+.div_b{
+    background-color: gold;
+}
+.enter{
+    background-color: gold;
+}
+.Main_div{
+    background-color: gold;
+    min-height: 30vh;
+display: flex;
+}
+.sub_div1{
+    background-color: gold;
+    min-height: 30vh;
+    width: 25%;
+}
+
+.sub_div2{
+    background-color: gold;
+    min-height: 30vh;
+    width: 25%;
+ }
+.sub_div3{
+    background-color: gold;
+    min-height: 30vh;
+    width: 25%;
+}
+.sub_div4{
+    background-color: gold;
+    min-height: 30vh;
+    width: 25%;}
+.imga{
+height: 30%;
+width:33%
+}
+.flex{display: flex;}
+.flexx{display: flex;}
+.xx{
+height: 30px;
+width: 30px;
+}
+.mega{
+    color: rgba(219,187,9,0.75);
+}
